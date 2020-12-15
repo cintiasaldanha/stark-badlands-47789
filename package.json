@@ -1,0 +1,21 @@
+{
+  "name": "appheroku",
+  "version": "1.0.0",
+  "description": "App Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Cintia Saldanha",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "math-asd-of13": "^1.0.9"
+  }
+}
